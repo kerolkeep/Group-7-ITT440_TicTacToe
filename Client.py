@@ -2,7 +2,7 @@ import socket
 import sys
 import os
 
-host = '192.168.0.66'
+host = '192.168.56.2'
 port = 8888
 os.system('clear')
 
